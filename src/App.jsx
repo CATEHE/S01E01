@@ -2,7 +2,7 @@ import { useState } from 'react'
 import { img1, img2, img3, img4 } from './assets/images'
 import frases from './data/phrases.json'
 import { randomIndex } from './helpers/indexrandom.js'
-import Titulo from './componets/titulo.jsx'
+import Titulo from './componets/Titulo.jsx'
 import './app.css'
 
 const images = [img1, img2, img3, img4]
